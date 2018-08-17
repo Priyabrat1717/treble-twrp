@@ -17,4 +17,4 @@
 /usb-otg        auto      /dev/block/sda1                                    flags=display="USB Storage";storage;wipeingui;removable
 
 /system_image   emmc      /dev/block/mmcblk0p24                              flags=display="System Image";backup=0
-/vendor_image   emmc      /dev/block/mmcblk0p48         		     flags=display="Vendor Image";backup=0
+/vendor_image   emmc      /dev/block/mmcblk0p48         		                 flags=display="Vendor Image";backup=0
